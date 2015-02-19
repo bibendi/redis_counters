@@ -1,6 +1,8 @@
 
 #### [Current]
-
+ * 2015-02-19 [8f5da1d](../../commit/8f5da1d) - __(bibendi)__ Release v1.3.0
+ * 2015-02-19 [c86a1aa](../../commit/c86a1aa) - __(bibendi)__ commit changelog after generate it
+ * 2015-02-19 [b5ec9f8](../../commit/b5ec9f8) - __(bibendi)__ change releasing tasks to upload on rubygems
 
 #### v1.2.0
  * 2014-11-10 [be642ce](../../commit/be642ce) - __(Artem Napolskih)__ Release 1.2.0
