@@ -116,7 +116,8 @@ module RedisCounters
         partitions_without_clean(params)
       end
 
-      alias_method_chain :partitions, :clean
+      alias_method :partitions_without_clean, :partitions
+      alias_method :partitions, :partitions_with_clean
 
       # Protected: Производит очистку expired - значений и пустых партиций.
       #
